@@ -1,8 +1,6 @@
 const { TOKEN } = require("./settings/config");
 require("ffmpeg-static")
 
-module.exports = client;
-
 const express = require("express");
 const app = express();
 const port = 3000;
