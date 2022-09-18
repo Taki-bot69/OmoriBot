@@ -34,7 +34,4 @@
     "libsodium-wrappers": "^0.7.10",
     "opusscript": "^0.0.8"
   },
-  "devDependencies": {
-    "node": "^18.9.0"
-  }
 }
