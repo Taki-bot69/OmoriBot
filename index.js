@@ -1,4 +1,3 @@
-const JUGNU = require("./handlers/Client");
 const { TOKEN } = require("./settings/config");
 require("ffmpeg-static")
 const client = new JUGNU();
